@@ -1,1 +1,0 @@
-# cooksy-frontend
